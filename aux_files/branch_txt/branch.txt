@@ -1,0 +1,5 @@
+ID|Name|Address|State
+W001|FattSiong1|Jalan Fatt Siong|Selangor
+W002|FattSiong2|Jalan Fatt Siong|Pahang
+S001|ZhenBang1|Jalan Zhen Bang|Selangor
+S002|ZhenBang2|Jalan Zhen Bang|Pahang

@@ -1,0 +1,30 @@
+SKU|Model|RAM|ROM|Color|Price|Type
+XM0001|Xiaomi 13T Pro|12GB|256GB|White|2299|Phone
+XM0002|Xiaomi 13T Pro|12GB|256GB|Blue|2299|Phone
+XM0003|Xiaomi 13T Pro|12GB|256GB|Black|2299|Phone
+XM0004|Xiaomi 13T Pro|12GB|512GB|White|2499|Phone
+XM0005|Xiaomi 13T Pro|12GB|512GB|Blue|2499|Phone
+XM0006|Xiaomi 13T Pro|12GB|512GB|Black|2499|Phone
+XM0007|Xiaomi 13T Pro|12GB|1024GB|White|2699|Phone
+XM0008|Xiaomi 13T Pro|12GB|1024GB|Blue|2699|Phone
+XM0009|Xiaomi 13T Pro|12GB|1024GB|Black|2699|Phone
+
+XM0010|Xiaomi 14|12GB|256GB|Black|3499|Phone
+XM0011|Xiaomi 14|12GB|256GB|Green|3499|Phone
+XM0012|Xiaomi 14|12GB|256GB|White|3499|Phone
+XM0013|Xiaomi 14|12GB|512GB|Black|3699|Phone
+XM0014|Xiaomi 14|12GB|512GB|Green|3699|Phone
+XM0015|Xiaomi 14|12GB|512GB|White|3699|Phone
+
+XM0016|Xiaomi 14 Ultra|16GB|512GB|Black|5199|Phone
+XM0017|Xiaomi 14 Ultra|16GB|512GB|White|5199|Phone
+
+XM0018|Xiaomi Pad 6|6GB|128GB|Gray|1099|Tablet
+XM0019|Xiaomi Pad 6|6GB|128GB|Blue|1099|Tablet
+XM0020|Xiaomi Pad 6|6GB|128GB|Gold|1099|Tablet
+XM0021|Xiaomi Pad 6|8GB|128GB|Gray|1299|Tablet
+XM0022|Xiaomi Pad 6|8GB|128GB|Blue|1299|Tablet
+XM0023|Xiaomi Pad 6|8GB|128GB|Gold|1299|Tablet
+XM0024|Xiaomi Pad 6|8GB|256GB|Gray|1499|Tablet
+XM0025|Xiaomi Pad 6|8GB|256GB|Blue|1499|Tablet
+XM0026|Xiaomi Pad 6|8GB|256GB|Gold|1499|Tablet

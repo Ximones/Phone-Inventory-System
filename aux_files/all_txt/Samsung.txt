@@ -1,0 +1,65 @@
+SKU|Model|RAM|ROM|Color|Price|Type
+S0001|Samsung A35|8GB|256GB|White|1799|Phone
+S0002|Samsung A35|8GB|256GB|Black|1799|Phone
+S0003|Samsung A35|8GB|256GB|Blue|1799|Phone
+
+S0004|Samsung A55|8GB|256GB|White|1999|Phone
+S0005|Samsung A55|8GB|256GB|Black|1999|Phone
+S0006|Samsung A55|8GB|256GB|Blue|1999|Phone
+
+S0007|Samsung S24|8GB|256GB|Violet|3399|Phone
+S0008|Samsung S24|8GB|256GB|Yellow|3399|Phone
+S0009|Samsung S24|8GB|256GB|Black|3399|Phone
+S0010|Samsung S24|8GB|256GB|Gray|3399|Phone
+
+S0011|Samsung S24|8GB|512GB|Violet|3899|Phone
+S0012|Samsung S24|8GB|512GB|Yellow|3899|Phone
+S0013|Samsung S24|8GB|512GB|Black|3899|Phone
+S0014|Samsung S24|8GB|512GB|Gray|3899|Phone
+
+S0015|Samsung S24+|12GB|256GB|Violet|3999|Phone
+S0016|Samsung S24+|12GB|256GB|Yellow|3999|Phone
+S0017|Samsung S24+|12GB|256GB|Black|3999|Phone
+S0018|Samsung S24+|12GB|256GB|Gray|3999|Phone
+
+S0019|Samsung S24+|12GB|512GB|Violet|4499|Phone
+S0020|Samsung S24+|12GB|512GB|Yellow|4499|Phone
+S0021|Samsung S24+|12GB|512GB|Black|4499|Phone
+S0022|Samsung S24+|12GB|512GB|Gray|4499|Phone
+
+S0023|Samsung S24 Ultra|12GB|256GB|Violet|5399|Phone
+S0024|Samsung S24 Ultra|12GB|256GB|Yellow|5399|Phone
+S0025|Samsung S24 Ultra|12GB|256GB|Black|5399|Phone
+S0026|Samsung S24 Ultra|12GB|256GB|Gray|5399|Phone
+
+S0027|Samsung S24 Ultra|12GB|512GB|Violet|5399|Phone
+S0028|Samsung S24 Ultra|12GB|512GB|Yellow|5399|Phone
+S0029|Samsung S24 Ultra|12GB|512GB|Black|5399|Phone
+S0030|Samsung S24 Ultra|12GB|512GB|Gray|5399|Phone
+
+S0031|Samsung S24 Ultra|12GB|1024GB|Violet|6899|Phone
+S0032|Samsung S24 Ultra|12GB|1024GB|Yellow|6899|Phone
+S0033|Samsung S24 Ultra|12GB|1024GB|Black|6899|Phone
+S0034|Samsung S24 Ultra|12GB|1024GB|Gray|6899|Phone
+
+S0035|Samsung Z Flip 6|12GB|256GB|Blue|4499|Phone
+S0036|Samsung Z Flip 6|12GB|256GB|Yellow|4499|Phone
+S0037|Samsung Z Flip 6|12GB|256GB|Mint|4499|Phone
+S0038|Samsung Z Flip 6|12GB|256GB|Silver|4499|Phone
+
+S0039|Samsung Z Flip 6|12GB|512GB|Blue|5099|Phone
+S0040|Samsung Z Flip 6|12GB|512GB|Yellow|5099|Phone
+S0041|Samsung Z Flip 6|12GB|512GB|Mint|5099|Phone
+S0042|Samsung Z Flip 6|12GB|512GB|Silver|5099|Phone
+
+S0043|Samsung Z Fold 6|12GB|256GB|Silver|6799|Phone
+S0044|Samsung Z Fold 6|12GB|256GB|Pink|6799|Phone
+S0045|Samsung Z Fold 6|12GB|256GB|Navy|6799|Phone
+
+S0046|Samsung Z Fold 6|12GB|512GB|Silver|7399|Phone
+S0047|Samsung Z Fold 6|12GB|512GB|Pink|7399|Phone
+S0048|Samsung Z Fold 6|12GB|512GB|Navy|7399|Phone
+
+S0049|Samsung Z Fold 6|12GB|1024GB|Silver|8599|Phone
+S0050|Samsung Z Fold 6|12GB|1024GB|Pink|8599|Phone
+S0051|Samsung Z Fold 6|12GB|1024GB|Navy|8599|Phone

@@ -1,0 +1,103 @@
+SKU|Model|RAM|ROM|Color|Price|Type
+
+A0001|iPhone 14|4GB|128GB|Yellow|3799|Phone
+A0002|iPhone 14|4GB|128GB|Black|3799|Phone
+A0003|iPhone 14|4GB|128GB|Red|3799|Phone
+A0004|iPhone 14|4GB|128GB|Blue|3799|Phone
+A0005|iPhone 14|4GB|128GB|Purple|3799|Phone
+
+A0006|iPhone 14|4GB|256GB|Yellow|4299|Phone
+A0007|iPhone 14|4GB|256GB|Black|4299|Phone
+A0008|iPhone 14|4GB|256GB|Red|4299|Phone
+A0009|iPhone 14|4GB|256GB|Blue|4299|Phone
+A0010|iPhone 14|4GB|256GB|Purple|4299|Phone
+
+A0011|iPhone 14|4GB|512GB|Yellow|5299|Phone
+A0012|iPhone 14|4GB|512GB|Black|5299|Phone
+A0013|iPhone 14|4GB|512GB|Red|5299|Phone
+A0014|iPhone 14|4GB|512GB|Blue|5299|Phone
+A0015|iPhone 14|4GB|512GB|Purple|5299|Phone
+
+A0016|iPhone 14 Plus|4GB|128GB|Yellow|4399|Phone
+A0017|iPhone 14 Plus|4GB|128GB|Black|4399|Phone
+A0018|iPhone 14 Plus|4GB|128GB|Red|4399|Phone
+A0019|iPhone 14 Plus|4GB|128GB|Blue|4399|Phone
+A0020|iPhone 14 Plus|4GB|128GB|Purple|4399|Phone
+
+A0021|iPhone 14 Plus|4GB|256GB|Yellow|4899|Phone
+A0022|iPhone 14 Plus|4GB|256GB|Black|4899|Phone
+A0023|iPhone 14 Plus|4GB|256GB|Red|4899|Phone
+A0024|iPhone 14 Plus|4GB|256GB|Blue|4899|Phone
+A0025|iPhone 14 Plus|4GB|256GB|Purple|4899|Phone
+
+A0026|iPhone 14 Plus|4GB|512GB|Yellow|5899|Phone
+A0027|iPhone 14 Plus|4GB|512GB|Black|5899|Phone
+A0028|iPhone 14 Plus|4GB|512GB|Red|5899|Phone
+A0029|iPhone 14 Plus|4GB|512GB|Blue|5899|Phone
+A0030|iPhone 14 Plus|4GB|512GB|Purple|5899|Phone
+
+A0031|iPhone 15|4GB|128GB|White|4399|Phone
+A0032|iPhone 15|4GB|128GB|Pink|4399|Phone
+A0033|iPhone 15|4GB|128GB|Yellow|4399|Phone
+A0034|iPhone 15|4GB|128GB|Green|4399|Phone
+A0035|iPhone 15|4GB|128GB|Black|4399|Phone
+
+A0036|iPhone 15|4GB|256GB|White|4899|Phone
+A0037|iPhone 15|4GB|256GB|Pink|4899|Phone
+A0038|iPhone 15|4GB|256GB|Yellow|4899|Phone
+A0039|iPhone 15|4GB|256GB|Green|4899|Phone
+A0040|iPhone 15|4GB|256GB|Black|4899|Phone
+
+A0041|iPhone 15|4GB|512GB|White|5899|Phone
+A0042|iPhone 15|4GB|512GB|Pink|5899|Phone
+A0043|iPhone 15|4GB|512GB|Yellow|5899|Phone
+A0044|iPhone 15|4GB|512GB|Green|5899|Phone
+A0045|iPhone 15|4GB|512GB|Black|5899|Phone
+
+A0046|iPhone 15 Plus|4GB|128GB|White|4899|Phone
+A0047|iPhone 15 Plus|4GB|128GB|Pink|4899|Phone
+A0048|iPhone 15 Plus|4GB|128GB|Yellow|4899|Phone
+A0049|iPhone 15 Plus|4GB|128GB|Green|4899|Phone
+A0050|iPhone 15 Plus|4GB|128GB|Black|4899|Phone
+
+A0051|iPhone 15 Plus|4GB|256GB|White|5399|Phone
+A0052|iPhone 15 Plus|4GB|256GB|Pink|5399|Phone
+A0053|iPhone 15 Plus|4GB|256GB|Yellow|5399|Phone
+A0054|iPhone 15 Plus|4GB|256GB|Green|5399|Phone
+A0055|iPhone 15 Plus|4GB|256GB|Black|5399|Phone
+
+A0056|iPhone 15 Plus|4GB|512GB|Yellow|6399|Phone
+A0057|iPhone 15 Plus|4GB|512GB|Black|6399|Phone
+A0058|iPhone 15 Plus|4GB|512GB|Red|6399|Phone
+A0059|iPhone 15 Plus|4GB|512GB|Blue|6399|Phone
+A0060|iPhone 15 Plus|4GB|512GB|Purple|6399|Phone
+
+A0061|iPhone 15 Pro|8GB|128GB|Natural|5499|Phone
+A0062|iPhone 15 Pro|8GB|128GB|Blue|5499|Phone
+A0063|iPhone 15 Pro|8GB|128GB|White|5499|Phone
+A0064|iPhone 15 Pro|8GB|128GB|Black|5499|Phone
+
+A0065|iPhone 15 Pro|8GB|256GB|Natural|5999|Phone
+A0066|iPhone 15 Pro|8GB|256GB|Blue|5999|Phone
+A0067|iPhone 15 Pro|8GB|256GB|White|5999|Phone
+A0068|iPhone 15 Pro|8GB|256GB|Black|5999|Phone
+
+A0069|iPhone 15 Pro|8GB|512GB|Natural|6999|Phone
+A0070|iPhone 15 Pro|8GB|512GB|Blue|6999|Phone
+A0071|iPhone 15 Pro|8GB|512GB|White|6999|Phone
+A0072|iPhone 15 Pro|8GB|512GB|Black|6999|Phone
+
+A0073|iPhone 15 Pro|8GB|1024GB|Natural|7999|Phone
+A0074|iPhone 15 Pro|8GB|1024GB|Blue|7999|Phone
+A0075|iPhone 15 Pro|8GB|1024GB|White|7999|Phone
+A0076|iPhone 15 Pro|8GB|1024GB|Black|7999|Phone
+
+A0077|iPad 10|4GB|64GB|Pink|1799|Tablet
+A0078|iPad 10|4GB|64GB|Yellow|1799|Tablet
+A0079|iPad 10|4GB|64GB|Blue|1799|Tablet
+A0079|iPad 10|4GB|64GB|Silver|1799|Tablet
+
+A0080|iPad 10|4GB|128GB|Pink|2549|Tablet
+A0081|iPad 10|4GB|128GB|Yellow|2549|Tablet
+A0082|iPad 10|4GB|128GB|Blue|2549|Tablet
+A0083|iPad 10|4GB|128GB|Silver|2549|Tablet

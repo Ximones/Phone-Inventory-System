@@ -1,0 +1,16 @@
+SKU|Model|RAM|ROM|Color|Price|Type
+N0001|Nothing Phone 1|8GB|128GB|White|1799|Phone
+N0002|Nothing Phone 1|8GB|128GB|Black|1799|Phone
+N0003|Nothing Phone 1|8GB|256GB|White|1999|Phone
+N0004|Nothing Phone 1|8GB|256GB|Black|1999|Phone
+
+N0005|Nothing Phone 2|8GB|256GB|White|1999|Phone
+N0006|Nothing Phone 2|8GB|256GB|Black|1999|Phone
+N0007|Nothing Phone 2|12GB|512GB|White|2599|Phone
+N0008|Nothing Phone 2|12GB|512GB|Black|2599|Phone
+
+N0009|Nothing Phone 2a|8GB|256GB|White|1499|Phone
+N0010|Nothing Phone 2a|8GB|256GB|Black|1499|Phone
+
+N0011|Nothing Phone 2a Plus|8GB|256GB|Blue|1699|Phone
+N0012|Nothing Phone 2a Plus|8GB|256GB|Metal|1699|Phone

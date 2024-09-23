@@ -1,0 +1,14 @@
+Staff|ST001|Tfs-0316|W001|Tiong Fatt Siong|fattsiong@gmail.com|16/03/2005|01159424214
+Staff|ST002|@StoreStaff12|S001|Liow Zhen Bang|zhenbangliow@gmail.com|12/05/2005|0167719430
+Staff|ST003|@WarehouseStaff1|W001|Liow Zhen Bang - W|zbqr@gmail.com|12/05/2005|0167719430
+Staff|ST004|@StoreStaff2|S002|Melvin Wong Ka Kian|mwkk@gmail.com|07/10/2005|0167711234
+Supplier|SP001|Selangor|POCO|POCO Distributions MY|pocodist@gmail.com|28/08/2020|0123244321
+Supplier|SP002|Selangor|Samsung|Samsung Mobile Malaysia|samsungmobilesmy@gmail.com|28/08/2020|0129874565
+Supplier|SP003|Selangor|Apple|Apple Malaysia|apple@icloud.com|28/08/2020|0121245683
+Supplier|SP004|Selangor|Nothing|Nothing Inc|nothing@gmail.com|28/08/2020|0123245673
+Supplier|SP005|Selangor|Xiaomi|Xiaomi Malaysia|xiaomimy@gmail.com|28/08/2020|012234567894
+Supplier|SP006|Pahang|POCO|Kar Hang Mobile and Technologies|khmt@gmail.com|28/08/2020|0121234567
+Supplier|SP007|Pahang|Samsung|Simeon Mobiles|simeon@gmail.com|28/08/2020|0125678903
+Supplier|SP008|Pahang|Apple|Everything Apple Supplies|eapples@gmail.com|28/08/2023|0128439201
+Supplier|SP009|Pahang|Nothing|Nothing Mobiles|nthmobiles@gmail.com|28/08/2023|01478382903
+Supplier|SP010|Pahang|Xiaomi|Xiaomi Distributions|xiaomidist@gmail.com|28/08/2022|0138458239
